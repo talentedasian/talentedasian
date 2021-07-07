@@ -1,4 +1,4 @@
-### Hi there, I am TalentedEuropian( Not Asian Anymore :cry: ) 👋
+### Hi there, I am Almir James Lucena, 👋
 - :books: I am currently a grade 12 student in a no name school in the Philippines.
 - :dna: People call me "batak" even though I think that I'm just your average Joe.
 - :microscope: I am currently learning Java and the whole Spring Framework.
