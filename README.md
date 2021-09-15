@@ -1,11 +1,11 @@
 ### Hi there, I am Almir James Lucena, 👋
-- :books: I am currently a grade 12 student in a no name school in the Philippines.
-- :dna: People call me "batak" even though I think that I'm just your average Joe.
+- :books: I am currently a grade 12 student in a no name school in the Philippines.M
 - :microscope: I am currently learning Java and the whole Spring Framework.
 - :herb: My next goal would be to learn Microservices Architecture and use NoSql Databases.
 - :thinking: My current goal is to make pet projects and hopefully get a job even before graduating college.
-- :scientist: My end goal is to become a "not so typical" backend developer in the Philippines. I plan to be better every day and be the developer that's considered "skilled"  
-- 🍆 Hampas Lupa
+- :man_scientist: My end goal is to become a "not so typical" backend developer in the Philippines. I plan to be better every day and be the developer that's considered "skilled" in the market
+- :older_man: Young Geek. Check out [Gee Paw Hill](https://www.geepawhill.org/) and [Jitter Ted]( https://m.twitch.tv/jitterted).
+- :pager: Young geek doing TDD not because of craftmanship or feeling of superiority, but to ship value faster. 
 
 ### Favorite Discord Servers I have joined 👌:
 [![Discord](https://img.shields.io/badge/discord-The%20Noob%20Programmers-blue?logo=discord&style=for-the-badge)](https://discord.gg/pqWUGYpsEm)
