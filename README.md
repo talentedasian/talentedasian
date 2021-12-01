@@ -1,5 +1,5 @@
 ### Hi there, I am Almir James Lucena, 👋
-- :books: I am currently a grade 12 student in a no name school in the Philippines.M
+- :books: I am currently a grade 12 student in a no name school in the Philippines.
 - :microscope: I am currently learning Java and the whole Spring Framework.
 - :herb: My next goal would be to learn Microservices Architecture and use NoSql Databases.
 - :thinking: My current goal is to make pet projects and hopefully get a job even before graduating college.
